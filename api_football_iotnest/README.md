@@ -19,7 +19,10 @@ Logo, vamos configurar nosso ambiente para rodarmos a aplicação no ambiente Wi
 
 1- acesse esse link do tutorial que gravei.
    link: https://drive.google.com/file/d/1xCiID81NTIRdV6mD4LXUBs8gDbOUUSl2/view?usp=sharing
-   
+
+Nosso arquivo Foot.php está bem simples e objetivo... fiz comentários importantes para um melhor entendimento do que está acontecendo. Já nossas visualizações são ainda mais simples. Acredito que a maior dificuldade seria varrer o retorno da API e jogar dentro do loop para obter os dados que queremos.
+
+Para deploy e versionamento, basta realizar um git clone e subir as alterações feitas.   
 
 Obrigado,
 Pedro h. Desenvolvedor php
